@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.menu {
+  height: 40px; }
+  .menu .anh {
+    width: 100px;
+    margin-top: 3px; }
+
+.left .top {
+  margin-bottom: 20px;
+  width: 100%; }
+  .left .top .left1 {
+    height: 150px;
+    background-image: url(aa.jpg);
+    background-size: cover;
+    width: 100%; }
+  .left .top .left2 {
+    text-align: center !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    padding: 10px; }
+    .left .top .left2 .avatar {
+      max-width: 100px;
+      margin-top: -60px;
+      margin-bottom: 5px;
+      border: 3px solid #fff;
+      border-radius: 100%;
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); }
+    .left .top .left2 .text {
+      color: black !important;
+      text-decoration: none; }
+    .left .top .left2 .list {
+      list-style-type: none;
+      display: inline-block;
+      color: black !important;
+      text-decoration: none;
+      padding: 10px; }
+.left .mid {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  padding: 10px;
+  line-height: 2;
+  margin-bottom: 20px; }
+  .left .mid .list2 {
+    list-style-type: none; }
+.left .bot {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  padding: 10px; }
+  .left .bot .anhleft {
+    width: 100%;
+    height: auto;
+    padding: 5px; }
+
+.center .test {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  width: 100%; }
+  .center .test .center1 {
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
+    .center .test .center1 .inputgroup {
+      width: 100%; }
+      .center .test .center1 .inputgroup .inp {
+        width: 90%;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        color: #1e3948;
+        background-color: #fff;
+        border-radius: 0.25rem;
+        float: left; }
+      .center .test .center1 .inputgroup .bt {
+        width: 10%;
+        height: 100%;
+        float: left;
+        border-radius: 5px; }
+  .center .test .center2 {
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
+    .center .test .center2 .anhcenter {
+      height: 150px; }
+      .center .test .center2 .anhcenter img {
+        height: 100% !important; }
+  .center .test .center3 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
+
+.right .bdr1 {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  width: 100%; }
+  .right .bdr1 .st {
+    font-size: 14px; }
+.right .bg {
+  background-color: rgba(0, 0, 0, 0.03);
+  width: 100%; }
+.right .db {
+  color: #7d5a29;
+  background-color: #fcefdc;
+  border-color: #fbe8cd; }
+
+/*# sourceMappingURL=baitest2.css.map */
